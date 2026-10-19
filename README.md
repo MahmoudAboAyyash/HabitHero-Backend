@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="HabitHero Habit-Tracking Dashboard" src="https://github.com/user-attachments/assets/b71432dd-f813-44aa-833a-8870c23cf146" />
 
 # HabitHero – Habit Tracker
 
